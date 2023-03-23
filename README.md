@@ -1,6 +1,6 @@
 ![header_](https://user-images.githubusercontent.com/86197721/226116191-e4ec6453-115b-43b5-aa72-bf520e15bc1a.png)
  
-👨‍💻 As a software developer, I'm passionate about creating innovative and user-friendly applications.
+👨‍💻 As a software developer, I'm passionate about creating innovative and user-friendly applications
 
 🎓 With a degree in Computer Science and experience in various programming languages such as C++, Java, Python, JavaScript, and more, I have a strong foundation in software development.
 
