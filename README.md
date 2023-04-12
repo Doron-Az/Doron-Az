@@ -2,9 +2,9 @@
  
 👨‍💻 As a software developer, I'm passionate about creating innovative and user-friendly applications.
 
-🎓 With a degree in Computer Science and experience in various programming languages such as C++, Java, Python, JavaScript, and more, I have a strong foundation in software development.
+🎓 With a degree in Computer Science and experience in various programming languages such as C++, Java, Python, JavaScript, and more, I have a strong foundation in software development
 
-🚀 I'm always exploring new technologies and using them to bring creative ideas to life. My goal is to stay at the forefront of the industry and continuously improve my skills.
+🚀 I'm always exploring new technologies and using them to bring creative ideas to life. My goal is to stay at the forefront of the industry and continuously improve my skills
 
 🕹️ My GitHub profile features a variety of projects, ranging from game development to machine learning, demonstrating my versatility and eagerness to learn.
 
