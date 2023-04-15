@@ -8,6 +8,5 @@
 
 🕹️ My GitHub profile features a variety of projects, ranging from game development to machine learning, demonstrating my versatility and eagerness to learn
 
-👨‍👩‍👧‍👦 Above all, I'm driven by a desire to make a positive impact on the world through technology and to create a better future for the community. I believe that software development is a powerful tool for creating change, and I'm excited to be a part of it.
-
+👨‍👩‍👧‍👦 Above all, I'm driven by a desire to make a positive impact on the world through technology and to create a better future for the community. I believe that software development is a powerful tool for creating change, and I'm excited to be a part of it
 Doron Azulay - doronazulay9@gmail.com
